@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="1920" alt="Screenshot 2023-09-11 at 3 10 53 PM" src="https://github.com/developerrahulofficial/Advice-generator-app/assets/83329806/ab6b6701-112d-42bd-a5fc-2e34f99bfb63">
+<img width="1920" alt="Screenshot 2023-09-11 at 3 10 53 PM" src="./assets/advice-generator-app-screenshot.png">
 
 
 ## My process
